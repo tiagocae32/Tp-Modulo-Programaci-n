@@ -23,7 +23,7 @@ Se utilizó **MySQL** como base de datos relacional.
 CREATE DATABASE contoso;
 ```
 
-### Creación del entorno virtual
+## Creación del entorno virtual
 ```
 python -m venv venv
 ```
