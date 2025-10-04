@@ -21,3 +21,19 @@ Se utilizó **MySQL** como base de datos relacional.
 ### Creación de la base de datos
 ```sql
 CREATE DATABASE contoso;
+```
+
+### Creación del entorno virtual
+```
+python -m venv venv
+```
+
+# Activar el entorno
+```
+venv\Scripts\activate
+```
+
+# Instalar las dependencias del proyecto:
+```
+pip install -r requirements.txt
+```
