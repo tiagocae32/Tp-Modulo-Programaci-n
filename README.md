@@ -28,12 +28,12 @@ CREATE DATABASE contoso;
 python -m venv venv
 ```
 
-# Activar el entorno
+### Activar el entorno
 ```
 venv\Scripts\activate
 ```
 
-# Instalar las dependencias del proyecto:
+### Instalar las dependencias del proyecto:
 ```
 pip install -r requirements.txt
 ```
